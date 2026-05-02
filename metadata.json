@@ -1,0 +1,6 @@
+{
+  "name": "SmartPrice Shopping Assistant",
+  "description": "Mini shopping assistant with AI recommendations, price comparison (Amazon vs Flipkart), and price drop tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
